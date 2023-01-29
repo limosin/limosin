@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hola amigos!! 👋
 ## I am Somil!
-I'm a DevOps Engineer at HSBC Technology, **India**!
+I'm a Developer currently Working at Simpl, **India**!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/limosyn_com?label=Follow)](https://twitter.com/intent/follow?screen_name=limosyn_com)
 [![Linkedin:limosyn](https://img.shields.io/badge/-Somil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/limosyn/)](https://www.linkedin.com/in/limosyn/)
